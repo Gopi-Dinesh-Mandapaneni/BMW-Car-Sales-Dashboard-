@@ -4,17 +4,17 @@
 
 ###### **Project Details**
 
-Tool	      Microsoft Power BI Desktop
+Tool:	      Microsoft Power BI Desktop
 
-File	      bmw\_car\_sales.pbix
+File:	      bmw\_car\_sales.pbix
 
-Created	      November 2025
+Created:	      November 2025
 
-Data Source   BMW Car Sales Dataset (Internal)
+Data Source:   BMW Car Sales Dataset (Internal)
 
-Report Pages  1 (single-page interactive dashboard)
+Report Pages:  1 (single-page interactive dashboard)
 
-Visuals	      10 interactive visuals + 4 slicers
+Visuals:	      10 interactive visuals + 4 slicers
 
 
 
@@ -24,19 +24,19 @@ The report is built on a single table called bmw\_car\_sales. Here's what each c
 
 
 
-Column	       Description
+Column:	       Description
 
-Model	       BMW car model (e.g., 3 Series, X5, M3, etc.)
+Model:	       BMW car model (e.g., 3 Series, X5, M3, etc.)
 
-Color	       Exterior color of the vehicle
+Color	:       Exterior color of the vehicle
 
-Fuel\_Type      Type of fuel (Petrol, Diesel, Electric, Hybrid, etc.)
+Fuel\_Type:      Type of fuel (Petrol, Diesel, Electric, Hybrid, etc.)
 
-Region	       Sales region or geographic market
+Region:	       Sales region or geographic market
 
-sales\_year     Year the sale was recorded.
+sales\_year:     Year the sale was recorded.
 
-Sales\_Volume   Number of units sold
+Sales\_Volume:   Number of units sold
 
 
 
@@ -126,17 +126,17 @@ All slicers interact with every visual on the page, so any selection you make ca
 
 ###### **File \& Environment Info**
 
-File Name		bmw\_car\_sales.pbix
+File Name:		bmw\_car\_sales.pbix
 
-File Size		\~2.1 MB
+File Size:		\~2.1 MB
 
-Power BI Version	2025.11 (November 2025 release)
+Power BI Version:	2025.11 (November 2024)
 
-Data Refresh		Static dataset embedded in the file.
+Data Refresh:		Static dataset embedded in the file.
 
-External Connections	None (self-contained)
+External Connections:	None (self-contained)
 
-Theme			CY25SU11 base theme with Temperature accent
+Theme:			CY25SU11 base theme with Temperature accent
 
 
 
